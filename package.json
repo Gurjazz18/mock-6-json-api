@@ -1,0 +1,23 @@
+{
+  "name": "mock-6-json-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurjazz18/mock-6-json-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurjazz18/mock-6-json-api/issues"
+  },
+  "homepage": "https://github.com/Gurjazz18/mock-6-json-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
